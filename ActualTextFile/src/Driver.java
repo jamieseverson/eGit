@@ -31,7 +31,8 @@ public class Driver {
 				pw.write("Your first name starts with letter: " + firstname[newfirstname].substring(0, 1));
 				pw.close();
 				stones.close();
-			}
+				//poop
+		} 
 		
 		catch (Exception e) {
 			System.out.println("You have an error!");
